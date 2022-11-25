@@ -649,7 +649,7 @@ function init(){
 
     var myPlacemark = new ymaps.Placemark([55.758468, 37.601088], {}, {
         iconLayout: 'default#image',
-        iconImageHref: "/blanchard/img/placemark.svg",
+        iconImageHref: "../blanchard/img/placemark.svg",
         iconImageSize: [20, 20],
         iconImageOffset: [0, 0]
     });
