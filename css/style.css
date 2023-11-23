@@ -14,32 +14,32 @@ html {
 
 @font-face {
   font-family: "Open Sans";
-  src: url("/blanchard/fonts/OpenSansBold.woff2"),
-       url("/blanchard/fonts/OpenSans-Bold.woff");
+  src: url("./fonts/OpenSansBold.woff2"),
+       url("./fonts/OpenSans-Bold.woff");
   font-weight: 700;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Open Sans";
-  src: url("/blanchard/fonts/OpenSansItalic.woff2"),
-        url("/blanchard/fonts/OpenSans-Italic.woff");
+  src: url("./fonts/OpenSansItalic.woff2"),
+        url("./fonts/OpenSans-Italic.woff");
   font-weight: 400;
   font-style: italic;
 }
 
 @font-face {
   font-family: "Open Sans";
-  src: url("/blanchard/fonts/OpenSansRegular.woff2"),
-        url("/blanchard/fonts/OpenSans-Regular.woff");
+  src: url("./fonts/OpenSansRegular.woff2"),
+        url("./fonts/OpenSans-Regular.woff");
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Open Sans";
-  src: url("/blanchard/fonts/OpenSansSemiBold.woff2"),
-        url("/blanchard/fonts/OpenSans-SemiBold.woff");
+  src: url("./fonts/OpenSansSemiBold.woff2"),
+        url("./fonts/OpenSans-SemiBold.woff");
   font-weight: 600;
   font-style: normal;
 }
@@ -481,83 +481,83 @@ body {
 }
 
 .dropdown__item_1 {
-  background-image: url("/blanchard/img/1.jpg");
+  background-image: url("./img/1.jpg");
 }
 
 .dropdown__item_2 {
-  background-image: url("/blanchard/img/2.jpg");
+  background-image: url("./img/2.jpg");
 }
 
 .dropdown__item_3 {
-  background-image: url("/blanchard/img/3.jpg");
+  background-image: url("./img/3.jpg");
 }
 
 .dropdown__item_4 {
-  background-image: url("/blanchard/img/4.jpg");
+  background-image: url("./img/4.jpg");
 }
 
 .dropdown__item_5 {
-  background-image: url("/blanchard/img/5.jpg");
+  background-image: url("./img/5.jpg");
 }
 
 .dropdown__item_6 {
-  background-image: url("/blanchard/img/6.jpg");
+  background-image: url("./img/6.jpg");
 }
 
 .dropdown__item_7 {
-  background-image: url("/blanchard/img/7.jpg");
+  background-image: url("./img/7.jpg");
 }
 
 .dropdown__item_8 {
-  background-image: url("/blanchard/img/8.jpg");
+  background-image: url("./img/8.jpg");
 }
 
 .dropdown__item_9 {
-  background-image: url("/blanchard/img/9.jpg");
+  background-image: url("./img/9.jpg");
 }
 
 .dropdown__item_10 {
-  background-image: url("/blanchard/img/10.jpg");
+  background-image: url("./img/10.jpg");
 }
 
 .dropdown__item_11 {
-  background-image: url("/blanchard/img/11.jpg");
+  background-image: url("./img/11.jpg");
 }
 
 .dropdown__item_12 {
-  background-image: url("/blanchard/img/12.jpg");
+  background-image: url("./img/12.jpg");
 }
 
 .dropdown__item_13 {
-  background-image: url("/blanchard/img/13.jpg");
+  background-image: url("./img/13.jpg");
 }
 
 .dropdown__item_14 {
-  background-image: url("/blanchard/img/14.jpg");
+  background-image: url("./img/14.jpg");
 }
 
 .dropdown__item_15 {
-  background-image: url("/blanchard/img/15.jpg");
+  background-image: url("./img/15.jpg");
 }
 
 .dropdown__item_16 {
-  background-image: url("/blanchard/img/16.jpg");
+  background-image: url("./img/16.jpg");
 }
 
 .dropdown__item_17 {
-  background-image: url("/blanchard/img/17.jpg");
+  background-image: url("./img/17.jpg");
 }
 
 .dropdown__item_18 {
-  background-image: url("/blanchard/img/18.jpg");
+  background-image: url("./img/18.jpg");
 }
 
 .dropdown__item_19 {
-  background-image: url("/blanchard/img/19.jpg");
+  background-image: url("./img/19.jpg");
 }
 
 .dropdown__item_20 {
-  background-image: url("/blanchard/img/20.jpg");
+  background-image: url("./img/20.jpg");
 }
 
 /* menu-bottom__search */
@@ -766,7 +766,7 @@ body {
 /* SECTION-GALLERY */
 
 .section-gallery {
-  background-image: url("/blanchard/img/gallery-back.jpg");
+  background-image: url("./img/gallery-back.jpg");
   color: var(--white);
 }
 
@@ -872,7 +872,7 @@ body {
   top: 17px;
   width: 12px;
   height: 8px;
-  background-image: url("/blanchard/img/arrow1.svg");
+  background-image: url("./img/arrow1.svg");
   border: none;
   background-size: 11px 11px;
   background-repeat: no-repeat;
@@ -1085,7 +1085,7 @@ body {
   left: 25px;
   bottom: 25px;
   background-color: rgba(0, 0, 0, 0.5);
-  background-image: url("/blanchard/img/loop.svg");
+  background-image: url("./img/loop.svg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: 81px 79px;
@@ -1343,7 +1343,7 @@ body {
   border: 2px solid transparent;
   background-color: #ECECEC;
   border-radius: 50%;
-  background-image: url("/blanchard/img/arrow-2.svg");
+  background-image: url("./img/arrow-2.svg");
   background-position: center 54%;
   background-repeat: no-repeat;
   transition: transform 0.5s ease, border-color 0.5s ease, background-color 0.5s ease;
@@ -1590,7 +1590,7 @@ body {
   border: 2px solid transparent;
   background-color: #ECECEC;
   border-radius: 50%;
-  background-image: url("/blanchard/img/arrow-2.svg");
+  background-image: url("./img/arrow-2.svg");
   background-position: center 54%;
   background-repeat: no-repeat;
   transition: border-color 0.3s ease, background-color 0.3s ease, opacity 0.3s ease;
@@ -1988,13 +1988,13 @@ body {
 }
 
 .section-contacts__social-link_whatsapp {
-  background-image: url("/blanchard/img/whatsapp.svg");
+  background-image: url("./img/whatsapp.svg");
   background-color: #30BF39;
   background-position: 7px 7px;
 }
 
 .section-contacts__social-link_telegram {
-  background-image: url("/blanchard/img/telegram.svg");
+  background-image: url("./img/telegram.svg");
   background-color: #26A5E4;
   background-position: 5px 10px;
 }
